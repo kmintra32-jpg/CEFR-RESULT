@@ -1,5 +1,5 @@
 const sheet =
-  "https://docs.google.com/spreadsheets/d/e/2PACX-1vTxVm98ayvnMp4FvOwk3FxcfecQBjyvUqhyzPrbZapHBKTJLea82KfrAru1RN78Bx4dnPjzgLcnlUFD/gviz/tq?tqx=out:json";
+"https://docs.google.com/spreadsheets/d/1_fWF_rEGkNFaRhHH33Ez4ba5CgCElxI-TcCkZnfA_I0/gviz/tq?sheet=Students&tqx=out:json";
 
 let rows = [];
 
